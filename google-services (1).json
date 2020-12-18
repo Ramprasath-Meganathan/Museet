@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649541661261",
+    "firebase_url": "https://museet2-a4427.firebaseio.com",
+    "project_id": "museet2-a4427",
+    "storage_bucket": "museet2-a4427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649541661261:android:69459bffc7ea131e85e204",
+        "android_client_info": {
+          "package_name": "com.example.museet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649541661261-srh1v9tp4a5u779f9gfcvhqt5cri2gt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADk7XIEpPNuX-DLC7_iU3d1k6Z3DU3mWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649541661261-srh1v9tp4a5u779f9gfcvhqt5cri2gt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
